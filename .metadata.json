@@ -1,0 +1,22 @@
+[
+  {
+    "package": "likert",
+    "oncran": true
+  },
+  {
+    "package": "multilevelPSA",
+    "oncran": true
+  },
+  {
+    "package": "sqlutils",
+    "oncran": true
+  },
+  {
+    "package": "timeline",
+    "oncran": true
+  },
+  {
+    "package": "TriMatch",
+    "oncran": true
+  }
+]
