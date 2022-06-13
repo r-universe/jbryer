@@ -8,8 +8,7 @@
     "oncran": true
   },
   {
-    "package": "sqlutils",
-    "oncran": true
+    "package": "sqlutils"
   },
   {
     "package": "timeline",
