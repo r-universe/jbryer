@@ -13,11 +13,6 @@
 	url = https://github.com/jbryer/multilevelpsa
 	shallow = true
 	registered = true
-[submodule "sqlutils"]
-	path = sqlutils
-	url = https://github.com/jbryer/sqlutils
-	shallow = true
-	registered = true
 [submodule "timeline"]
 	path = timeline
 	url = https://github.com/jbryer/timeline
