@@ -8,9 +8,6 @@
     "oncran": true
   },
   {
-    "package": "timeline"
-  },
-  {
     "package": "TriMatch",
     "oncran": true
   }
