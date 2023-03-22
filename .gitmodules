@@ -13,6 +13,11 @@
 	url = https://github.com/jbryer/multilevelpsa
 	shallow = true
 	registered = true
+[submodule "PSAgraphics"]
+	path = PSAgraphics
+	url = https://github.com/jbryer/psagraphics
+	shallow = true
+	registered = true
 [submodule "TriMatch"]
 	path = TriMatch
 	url = https://github.com/jbryer/trimatch
