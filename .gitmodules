@@ -1,35 +1,22 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "brickset"]
 	path = brickset
 	url = https://github.com/jbryer/brickset
-	shallow = true
-	registered = true
 [submodule "likert"]
 	path = likert
 	url = https://github.com/jbryer/likert
-	shallow = true
-	registered = true
 [submodule "multilevelPSA"]
 	path = multilevelPSA
 	url = https://github.com/jbryer/multilevelpsa
-	shallow = true
-	registered = true
 [submodule "PSAboot"]
 	path = PSAboot
 	url = https://github.com/jbryer/psaboot
-	shallow = true
-	registered = true
 [submodule "PSAgraphics"]
 	path = PSAgraphics
 	url = https://github.com/jbryer/psagraphics
-	shallow = true
-	registered = true
 [submodule "TriMatch"]
 	path = TriMatch
 	url = https://github.com/jbryer/trimatch
-	shallow = true
-	registered = true
