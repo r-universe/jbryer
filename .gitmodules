@@ -2,15 +2,6 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "brickset"]
-	path = brickset
-	url = https://github.com/jbryer/brickset
-[submodule "likert"]
-	path = likert
-	url = https://github.com/jbryer/likert
-[submodule "multilevelPSA"]
-	path = multilevelPSA
-	url = https://github.com/jbryer/multilevelpsa
 [submodule "PSAboot"]
 	path = PSAboot
 	url = https://github.com/jbryer/psaboot
@@ -20,3 +11,12 @@
 [submodule "TriMatch"]
 	path = TriMatch
 	url = https://github.com/jbryer/trimatch
+[submodule "brickset"]
+	path = brickset
+	url = https://github.com/jbryer/brickset
+[submodule "likert"]
+	path = likert
+	url = https://github.com/jbryer/likert
+[submodule "multilevelPSA"]
+	path = multilevelPSA
+	url = https://github.com/jbryer/multilevelpsa
