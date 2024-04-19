@@ -17,6 +17,9 @@
 [submodule "likert"]
 	path = likert
 	url = https://github.com/jbryer/likert
+[submodule "login"]
+	path = login
+	url = https://github.com/jbryer/login
 [submodule "multilevelPSA"]
 	path = multilevelPSA
 	url = https://github.com/jbryer/multilevelpsa
